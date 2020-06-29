@@ -1,0 +1,1 @@
+Here in this repository I created a blog page using HTML and CSS. A simple blog page without Java Script and Bootstrap.
